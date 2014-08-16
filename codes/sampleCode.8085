@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+JMP 24
+DB  7,4
+DS  8
+DB  25
+LDA 13
+MOV B, A
+LDA 14
+STA 13
+MOV A, B
+STA 14
+LDA 13
+MOV B, A
+LDA  14
+STA 13
+MOV A, B
+STA  14
+HLT

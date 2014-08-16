@@ -1,0 +1,13 @@
+-------------MACROS-------------
+jsup	mem, m
+swp mem, m
+ 
+-------------MACROS-------------
+-------------SYMBOL-------------
+START	14
+-------------SYMBOL-------------
+------------VARIABLE------------
+VAR	3	LOCAL
+RISHI	13	GLOBAL
+VAR1	5	LOCAL
+------------VARIABLE------------
